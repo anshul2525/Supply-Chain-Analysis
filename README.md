@@ -35,8 +35,9 @@ The complete dataset contains **180,520 rows**.
 
 Since the dataset is too large to upload to GitHub, it is available via Google Drive:
 
-**Dataset Link:** *Add your Google Drive link here*
+**Dataset Link:** (https://drive.google.com/drive/folders/11mD2BHqb1bguQAdtY2ShsaeAIcacg4ND?usp=drive_link)
 
 ## Dashboard Preview
 
-*Add your Power BI dashboard screenshot here.*
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/e9b48c26-5eb9-4cdc-af84-68d9bbcf42c0" />
+
