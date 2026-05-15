@@ -39,5 +39,6 @@ Since the dataset is too large to upload to GitHub, it is available via Google D
 
 ## Dashboard Preview
 
-<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/e9b48c26-5eb9-4cdc-af84-68d9bbcf42c0" />
+<img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/1b1607ea-0fea-4717-9ac6-f694a6c12879" />
+
 
